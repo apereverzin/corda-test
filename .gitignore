@@ -23,8 +23,8 @@
 hs_err_pid*
 .gradle/
 .idea/
-contracts/
 corda-test.iml
 logs/
 settings.gradle
 workflows/
+clients/build/
